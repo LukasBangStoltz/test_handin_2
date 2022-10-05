@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "hrAjX8O1mkPI7fFYhnwehwLSjjw1yEIVaQ0u1GcUyj408GNEfpSY4PJVtpRPRsuPoMQizdBXKVjBu/KVZo6wgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lukas\\Skrivebord\\SOFT 2 SEM\\Udvikling Af Store Systemer\\Afleveringer\\2\\ConsoleApp1\\StringFunctions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lukas\\.nuget\\packages\\xbehave\\2.4.1\\xbehave.2.4.1.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\xbehave.core\\2.4.1\\xbehave.core.2.4.1.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\xunit\\2.4.0\\xunit.2.4.0.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\xunit.abstractions\\2.0.2\\xunit.abstractions.2.0.2.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\xunit.analyzers\\0.10.0\\xunit.analyzers.0.10.0.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\xunit.assert\\2.4.0\\xunit.assert.2.4.0.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\xunit.core\\2.4.0\\xunit.core.2.4.0.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\xunit.extensibility.core\\2.4.0\\xunit.extensibility.core.2.4.0.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\xunit.extensibility.execution\\2.4.0\\xunit.extensibility.execution.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
