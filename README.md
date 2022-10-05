@@ -87,7 +87,7 @@ The functionality in both frameworks is borderline the same. They are able to so
 
 **Differences**:
 
-The two frameworks differ a lot in their syntax. An example below when mocking a property, its a lot more simple to understand the mocking in Nsubstitute
+The two frameworks differ a lot in their syntax. An example below when mocking a property, its a lot more simple to understand the mocking in Nsubstitute:
 
 ![alt text](./picture/pic2.PNG "Title")
 
